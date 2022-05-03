@@ -1,0 +1,5 @@
+Exp 2: Implement basic pass1 of two pass assemblers.
+
+run gcc exp_2.c 
+
+run ./a.out

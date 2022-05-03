@@ -1,0 +1,5 @@
+Exp 6: Design Lexical Analyzer using High Level Language
+
+run gcc exp_6.c 
+
+run ./a.out

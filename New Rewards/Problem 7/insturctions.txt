@@ -1,0 +1,9 @@
+Exp 7: Design of Top Down Parser- Recursive Descent Parser
+
+run gcc exp_7.c 
+
+run ./a.out
+
+input (a*b)+c
+
+input ab+

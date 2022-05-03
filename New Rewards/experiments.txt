@@ -1,0 +1,18 @@
+Hi There,
+
+Glad you remembered me.
+
+This is the list of experiments for Spcc
+Each practical is in a seperate folder with all the code and necessary files.
+inside each folder there is a file named instruction.txt containing all the required info
+
+Exp 1: Implement Symbol Table
+Exp 2: Implement basic pass1 of two pass assemblers.
+Exp 3: Implement basic pass 2 of two pass assemblers.
+Exp 4: Implement a single pass macro processor (Implement basic pass 2 of two pass Macro processor.)
+Exp 5: Implement a two pass macro processor (Implement basic pass 2 of two pass Macro processor.)
+Exp 6:Design of Lexical Analyzer
+Exp 7:Design of Top Down Parser- Recursive Descent Parser
+
+
+Best of Luck !!!

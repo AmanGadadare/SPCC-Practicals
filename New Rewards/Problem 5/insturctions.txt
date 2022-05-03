@@ -1,0 +1,5 @@
+Exp 5: Implement a two pass macro processor (Implement basic pass 2 of two pass Macro processor.)
+
+run gcc exp_5.c 
+
+run ./a.out

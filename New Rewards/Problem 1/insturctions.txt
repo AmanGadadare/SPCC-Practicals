@@ -1,0 +1,7 @@
+Exp 1: C program for implementing Symbol Table
+
+run gcc exp_1.c 
+
+run ./a.out
+
+Input Expression

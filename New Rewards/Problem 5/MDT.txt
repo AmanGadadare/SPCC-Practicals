@@ -1,0 +1,5 @@
+INCR **
+AR 2,3
+MR 1,2
+ST 1,2
+MEND **
